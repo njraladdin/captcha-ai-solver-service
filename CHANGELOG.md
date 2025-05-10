@@ -5,7 +5,7 @@
 ### Changed
 ### Fixed
 
-## [0.1.0] - 2023-07-15
+## [0.1.0] - 2025-05-10
 
 ### Added
 - Initial implementation of captcha-ai-solver-service API
